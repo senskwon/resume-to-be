@@ -18,7 +18,7 @@ resume_contact_email:           "senskwonsw@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "010-8781-2013"
-resume_contact_address:         ""
+resume_contact_address:         "senskwonsw@gmail.com"
 
 resume_header_contact_info:     "Seoul, Korea • 010-8781-2013 • senskwonsw@gmail.com"
 display_header_contact_info:    "false"
@@ -48,7 +48,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/senskwon/template-as-if"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  resume_facebook_url:            "https://www.facebook.com/profile.php?id=100009229307068"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
