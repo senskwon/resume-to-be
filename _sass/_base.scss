@@ -12,7 +12,7 @@ html {
 
 body{
   @include serif;
-  color: #0000ff;
+  color: $text_color;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -41,6 +41,6 @@ body{
 }
 ::selection {
     background: rgba(51,51,51,.8);
-    color: #fff;
+    color: #0000ff;
     text-shadow: none;
 }
