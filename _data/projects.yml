@@ -1,8 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-- duration: 프로젝트 경험 없음 
-# jazznotes.io
-#- project: jazznotes.io
-#  role: Founder 
-#  duration: 2012 &mdash; Present
-  # url: "#"
+
+- project: TO RECORD EVERYTHING
+  # role: 프론트엔드 개발 
+  duration: 2023.10 &mdash; 11
+  description: 간단한 일정 기입을 위한 웹페이지 개발 프로젝트, 웹디자인을 맡아 진행
