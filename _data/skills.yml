@@ -1,10 +1,9 @@
 # Skills
 # Organizational leadership
-- skill: C/C#
-  description:
-# Communications strategy
-- skill: Python
-  description:
-# Digital content development and creation
-#- skill: Digital content development and creation
-#  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: 프론트엔드
+  description: HTML, JAVASCRIPT
+
+- skill: 알고리즘
+  description: C, C++
+
+  
